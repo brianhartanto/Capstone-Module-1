@@ -11,7 +11,7 @@ def print_menu():
         3. Kembali ke menu Utama
         ''')
 
-        user_input = int(input(f'Silahkan Pilih Sub Menu Data [1-3]:'))
+        user_input = int(input(f'Silahkan Pilih Sub Menu [1-3]:'))
         if user_input == 1 :
             os.system('cls||clear')
             print(f"{'namakaryawan':<20}|{'umur':<20}|{'jabatan':<20}|{'jenisKelamin':<20}{'gaji':<20}")
