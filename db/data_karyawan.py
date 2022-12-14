@@ -3,7 +3,7 @@ data_karyawan = [
         'namakaryawan' : 'reyhan' ,
         'umur'         :  '21'  ,
         'jabatan'      :  'OB'  ,
-        'jenikelamin' :   'pria' ,
+        'jeniskelamin' :   'pria' ,
         'gaji'         :    '3000000'
     },
     {
@@ -14,7 +14,7 @@ data_karyawan = [
         'gaji'          : '3000000'
     },
     {
-        'namaKaryawan'  : 'ananda' ,
+        'namakaryawan'  : 'ananda' ,
         'umur'          : '24' ,
         'jabatan'       : 'penonton' ,
         'jeniskelamin'  : 'pria' ,
